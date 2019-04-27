@@ -12,12 +12,12 @@
 【6.15截止】[2019年复旦大学计算机科学技术学院和软件学院全国优秀大学生夏令营活动报名通知](http://lsfb.fudan.edu.cn/a0/f6/c13972a172278/page.htm)
 
 ## 东南大学
-[PALM实验室2020年秋季入学研究生报名须知](http://palm.seu.edu.cn/futurestudents.html?from=groupmessage&isappinstalled=0)
+【7.10截止】[PALM实验室2020年秋季入学研究生报名须知](http://palm.seu.edu.cn/futurestudents.html?from=groupmessage&isappinstalled=0)
 
 ## 南京大学
-[LAMDA招收2020年秋季入学研究生说明](https://cs.nju.edu.cn/zhouzh/zhouzh.files/recruit.htm)
+【5.20截止】[LAMDA招收2020年秋季入学研究生说明](https://cs.nju.edu.cn/zhouzh/zhouzh.files/recruit.htm)
 
-[软件所招收2019/2020年秋季入学研究生说明](http://moon.nju.edu.cn/recruit/)
+【5.20截止】[软件所招收2019/2020年秋季入学研究生说明](http://moon.nju.edu.cn/recruit/)
 
 ## 中国科学技术大学
 【6.15截止】[2019年第六届计算机科学暑期夏令营通知](https://xly.ustc.edu.cn/news.php?newsid=641)
