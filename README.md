@@ -4,7 +4,7 @@
 ## 清华大学
 【5.4截止】[清华大学交叉信息研究院优秀大学生夏令营](http://admission.iiis.tsinghua.edu.cn/2019/)
 
-【4.30截止】[清华大学软件学院2019年优秀大学生夏令营报名通知](http://www.thss.tsinghua.edu.cn/publish/soft/3649/2019/20190410165013261684356/20190410165013261684356_.html)
+~~【报名截止】[清华大学软件学院2019年优秀大学生夏令营报名通知](http://www.thss.tsinghua.edu.cn/publish/soft/3649/2019/20190410165013261684356/20190410165013261684356_.html)~~
 
 ## 北京大学
 
@@ -31,3 +31,10 @@
 【截止未知】[计算机科学技术系2019年优秀大学生夏令营通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2019040120040157201411)
 
 【截止未知】[第五届高可信软件工程优秀大学生夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2019032220159046143733)
+
+## 香港中文大学
+【5.20截止】[2019年香港中文大学（深圳）数据科学博士夏令营](http://idda.cuhk.edu.cn/zh-hans/content/9835)
+
+## 浙江大学
+
+【截止未知】[浙江大学网络空间安全研究中心2019年物联网夏令营](http://u9216776.viewer.maka.im/pcviewer/41E3JO81W9216776)
