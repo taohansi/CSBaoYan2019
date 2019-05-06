@@ -27,9 +27,11 @@
 【6.15截止】[2019年第六届计算机科学暑期夏令营通知](https://xly.ustc.edu.cn/news.php?newsid=641)
 
 ## 中科院研究所
-【6.16截止】[2019年全国大学生“软件与网络”夏令营(软件所)](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/201904/t20190424_5281117.html)
+【6.16截止】[2019年全国大学生“软件与网络”夏令营（**软件所**）](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/201904/t20190424_5281117.html)
 
-【6.30截止】[2019年沈阳计算所大学生暑期夏令营通知](http://www.sict.cas.cn/yjsjy/zs/201904/t20190423_4547892.html)
+【6.30截止】[2019年**沈阳计算所**大学生暑期夏令营通知](http://www.sict.cas.cn/yjsjy/zs/201904/t20190423_4547892.html)
+
+【6.21截止】[中科院**自动化所**“智能计算与控制”大学生暑期学校](https://mp.weixin.qq.com/s/CsQUWlbhltQMHGqKB9U83g)
 
 ## 华东师范大学
 【截止未知】[第七届云计算与大数据优秀大学生夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2019040120199382172023)
