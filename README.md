@@ -8,7 +8,7 @@
 
 【6.15截止】[清华大学车辆与运载学院2019年全国优秀大学生暑期夏令营通知](http://www.dae.tsinghua.edu.cn/publish/dae/4389/2019/20190505083202514688910/20190505083202514688910_.html?tdsourcetag=s_pctim_aiomsg)
 
-【6.13截止】清华-伯克利深圳学院2019年暑期夏令营招募通知](http://www.tbsi.edu.cn/index.php?s=/cms/1183.html)
+【6.13截止】[清华-伯克利深圳学院2019年暑期夏令营招募通知](http://www.tbsi.edu.cn/index.php?s=/cms/1183.html)
 
 ## 北京大学
 
