@@ -15,6 +15,8 @@
 ## 复旦大学
 【6.15截止】[2019年复旦大学计算机科学技术学院和软件学院全国优秀大学生夏令营活动报名通知](http://lsfb.fudan.edu.cn/a0/f6/c13972a172278/page.htm)
 
+【6.10截止】[2019年复旦大学工程与应用技术研究院全国优秀大学生夏令营通知](http://faet.fudan.edu.cn/a1/81/c13543a172417/page.htm)
+
 ## 东南大学
 【7.10截止】[PALM实验室2020年秋季入学研究生报名须知](http://palm.seu.edu.cn/futurestudents.html?from=groupmessage&isappinstalled=0)
 
