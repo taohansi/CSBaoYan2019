@@ -14,6 +14,10 @@
 
 ## 北京大学
 
+【5.29截止】[北京大学信息科学技术学院关于举办2019年信息学科优秀大学生夏令营的通知](http://eecs.pku.edu.cn/personnel/YJS/RecruitStudents/7653.shtml)
+
+【6.12网申截止6.14邮寄截止】[京大学前沿交叉学科研究院关于举办2019年交叉学科优秀大学生夏令营的通知](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=821)
+
 ## 复旦大学
 【6.15截止】[2019年复旦大学计算机科学技术学院和软件学院全国优秀大学生夏令营活动报名通知](http://lsfb.fudan.edu.cn/a0/f6/c13972a172278/page.htm)
 
