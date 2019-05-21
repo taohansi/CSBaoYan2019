@@ -43,6 +43,8 @@
 
 【6.21截止】[中科院**自动化所**“智能计算与控制”大学生暑期学校](https://mp.weixin.qq.com/s/CsQUWlbhltQMHGqKB9U83g)
 
+【6.25截止】[中国科学院**深圳先进技术研究院**2019年大学生夏令营](http://www.siat.cas.cn/yjsjy2016/zsjs2016/201904/t20190426_5282013.html)
+
 ## 华东师范大学
 【6.2截止】[第七届云计算与大数据优秀大学生夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2019040120199382172023)
 
