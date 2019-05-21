@@ -69,6 +69,8 @@
 ## 中国人民大学
 【6.1截止】[中国人民大学信息学院2019年优秀大学生夏令营招生简章](http://info.ruc.edu.cn/notice_convert_detail.php?id=1955)
 
+【6.1截止】[高瓴人工智能学院2019年优秀大学生夏令营招生简章](http://ai.ruc.edu.cn/xwgg/gg/b455ce0683a74a2397475ab5c860f333.htm?from=timeline&isappinstalled=0)
+
 ## 上海交通大学
 【6.20截止】[上海交通大学电子信息与电气工程学院2020级研究生优秀生源选拔通知](http://www.seiee.sjtu.edu.cn/yjb/info/15056.htm)
 * 直博（成都、武汉）报名时间：5.10 - 5.20
